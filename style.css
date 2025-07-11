@@ -153,3 +153,28 @@ h1.review-title {
 }
 
 .review-person-name h4 {color: #6e727f;}
+/* (ready webflow section) start here */
+#ready-webflow{
+    border-radius: 20px;
+}
+.ready-webflow-wrap {
+    background-color: white;
+    text-align: center;
+    padding: 81px 150px;
+}
+
+.ready-webflow-wrap h1 {
+    font-size: 40px;
+}
+
+.ready-webflow-wrap p {
+    padding: 25px 0 16px 0;
+}
+
+.ready-webflow-wrap button {
+    margin-bottom: 33px;
+}
+
+.ready-webflow-wrap img {
+    border-radius: 41px;
+}
