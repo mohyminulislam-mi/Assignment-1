@@ -31,6 +31,9 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+section{
+    padding: 90px 0;
+}
 
 
 /* -----------Header style start hare------ */
@@ -59,7 +62,25 @@ nav {
 .hero-content-wrap h1 {
     font-weight: 500;
     font-size: 43px;
+    color: #252432;
 }
 .hero-content-wrap button{
     margin-top: 37px;
 }
+/* -------- Main  start here (Action section) ---- */
+.action-content{
+    max-width: 520px;
+}
+.action-content h1 {
+    font-size: 34px;
+    color: #252432;
+}
+
+.action-content p {font-size: 18px;color: #252432;padding: 21px 162px 21px 0;}
+.action-img{
+    max-width: 400px;
+}
+.action-img img{
+    border-radius: 40px;
+}
+
